@@ -1,3 +1,6 @@
+#Author -- ashigup --aka-- Lucifer07 
+#Contact -- githhub.com/ashigup
+
 import subprocess
 import re
 
